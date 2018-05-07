@@ -1,0 +1,33 @@
+111111
+Barcode
+barcode1:Milk:3.0:0.0:001
+barcode2:Sugar:1.79:0.0:002
+barcode3:Tea:2.99:0.0:003
+barcode4:Coffee:7.25:0.0:004
+barcode5:Eggs:3.3:0.0:005
+Weight
+weight1:Banana:3.9:0.0
+weight7:Basa Fillet:8.5:3.0
+weight5:Beef:9.5:0.0
+weight10:Cheese:17.18:0.0
+weight6:Chicken:4.8:2.0
+weight4:Ham:18.0:6.0
+weight3:Orange:2.5:0.0
+weight12:Potato:3.0:30.0
+weight11:Salmon Fillet:29.0:0.0
+weight8:Snapper Fish:21.99:1.0
+weight9:Squid Fresh:17.99:1.0
+weight2:Watermelon:1.9:14.0
+Count
+count6:Avocado:4.0:50.0
+count1:Bread Roll:0.8:0.0
+count5:Celery Whole:4.5:0.0
+count12:Coca Cola:2.0:18.0
+count9:Ham & Cheese Roll:1.5:2.0
+count4:Muffin:2.5:0.0
+count3:Orchid in Pot:21.9:6.0
+count11:Pepsi:2.0:5.0
+count10:Pizza:6.5:8.0
+count7:Roast Chicken:7.9:5.0
+count2:Rockmelon Whole:3.8:7.0
+count8:Sushi Pack:11.0:3.0

@@ -1,0 +1,60 @@
+customer
+Sifer:Mark:1111:1000
+Beef:50.0
+Pizza:48.0
+Muffin:39.0
+Chicken:29.0
+Snapper Fish:28.0
+Salmon Fillet:22.0
+Cheese:21.0
+Watermelon:12.0
+Bread Roll:9.0
+Ham:3.0
+Celery Whole:3.0
+Banana:0.0
+end
+customer
+Hagenbuchner:Markus:2222:2000
+Ham:49.0
+Pizza:44.0
+Roast Chicken:42.0
+Banana:36.0
+Basa Fillet:29.0
+Rockmelon Whole:26.0
+Pepsi:24.0
+Avocado:23.0
+Orchid in Pot:23.0
+Sushi Pack:11.0
+Muffin:4.0
+Coca Cola:2.0
+end
+customer
+Piper:Angela:3333:3000
+Potato:47.0
+Beef:45.0
+Orchid in Pot:35.0
+Basa Fillet:32.0
+Roast Chicken:32.0
+Banana:28.0
+Coca Cola:28.0
+Bread Roll:23.0
+Orange:20.0
+Muffin:10.0
+Chicken:2.0
+Cheese:0.0
+end
+customer
+Kuan Wen:Ng:3334:4372
+Cheese:200.0
+Squid Fresh:50.0
+Watermelon:20.0
+Banana:0.0
+Basa Fillet:0.0
+Beef:0.0
+Chicken:0.0
+Ham:0.0
+Orange:0.0
+Potato:0.0
+Salmon Fillet:0.0
+Snapper Fish:0.0
+end
